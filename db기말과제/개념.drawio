@@ -1,0 +1,144 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.2.4" pages="2">
+  <diagram name="페이지-1" id="53-z04CpoKQzusZaq5wB">
+    <mxGraphModel dx="1665" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vZDx7YzwnDOOn2wliqoY-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="부서" vertex="1">
+          <mxGeometry height="60" width="120" x="120" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="vZDx7YzwnDOOn2wliqoY-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="주소" vertex="1">
+          <mxGeometry height="60" width="120" x="600" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="vZDx7YzwnDOOn2wliqoY-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="생년월일" vertex="1">
+          <mxGeometry height="60" width="120" x="480" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="vZDx7YzwnDOOn2wliqoY-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="이름" vertex="1">
+          <mxGeometry height="60" width="120" x="360" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="vZDx7YzwnDOOn2wliqoY-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="환자" vertex="1">
+          <mxGeometry height="60" width="120" x="120" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="vZDx7YzwnDOOn2wliqoY-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="처방전" vertex="1">
+          <mxGeometry height="60" width="120" x="120" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="vZDx7YzwnDOOn2wliqoY-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="약국" vertex="1">
+          <mxGeometry height="60" width="120" x="120" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="vZDx7YzwnDOOn2wliqoY-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="면허번호(PK)" vertex="1">
+          <mxGeometry height="60" width="120" x="240" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="vZDx7YzwnDOOn2wliqoY-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="의사" vertex="1">
+          <mxGeometry height="60" width="120" x="120" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="XC87SI5Zbf5aUj5Niq_5-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="약품" vertex="1">
+          <mxGeometry height="60" width="120" x="120" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="XC87SI5Zbf5aUj5Niq_5-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="부서_id(FK)" vertex="1">
+          <mxGeometry height="60" width="120" x="480" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="XC87SI5Zbf5aUj5Niq_5-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="이름" vertex="1">
+          <mxGeometry height="60" width="120" x="360" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="XC87SI5Zbf5aUj5Niq_5-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="처방상세" vertex="1">
+          <mxGeometry height="60" width="120" x="120" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="XC87SI5Zbf5aUj5Niq_5-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="진료" vertex="1">
+          <mxGeometry height="60" width="120" x="120" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="XC87SI5Zbf5aUj5Niq_5-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="연락처" vertex="1">
+          <mxGeometry height="60" width="120" x="600" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="XC87SI5Zbf5aUj5Niq_5-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;br&gt;&lt;p data-pm-slice=&quot;1 1 [&amp;quot;table&amp;quot;,{},&amp;quot;table_row&amp;quot;,{},&amp;quot;table_cell&amp;quot;,{&amp;quot;colspan&amp;quot;:1,&amp;quot;rowspan&amp;quot;:1,&amp;quot;colwidth&amp;quot;:null}]&quot;&gt;약품코드(PK)&lt;/p&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="240" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="XC87SI5Zbf5aUj5Niq_5-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;br&gt;&lt;p data-pm-slice=&quot;1 1 [&amp;quot;table&amp;quot;,{},&amp;quot;table_row&amp;quot;,{},&amp;quot;table_cell&amp;quot;,{&amp;quot;colspan&amp;quot;:1,&amp;quot;rowspan&amp;quot;:1,&amp;quot;colwidth&amp;quot;:null}]&quot;&gt;처방전ID(PK)&lt;/p&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="240" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="XC87SI5Zbf5aUj5Niq_5-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;br&gt;&lt;p data-pm-slice=&quot;1 1 [&amp;quot;table&amp;quot;,{},&amp;quot;table_row&amp;quot;,{},&amp;quot;table_cell&amp;quot;,{&amp;quot;colspan&amp;quot;:1,&amp;quot;rowspan&amp;quot;:1,&amp;quot;colwidth&amp;quot;:null}]&quot;&gt;진료ID(PK)&lt;/p&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="240" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="XC87SI5Zbf5aUj5Niq_5-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;br&gt;&lt;p data-pm-slice=&quot;1 1 [&amp;quot;table&amp;quot;,{},&amp;quot;table_row&amp;quot;,{},&amp;quot;table_cell&amp;quot;,{&amp;quot;colspan&amp;quot;:1,&amp;quot;rowspan&amp;quot;:1,&amp;quot;colwidth&amp;quot;:null}]&quot;&gt;부서ID(PK)&lt;/p&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="240" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="XC87SI5Zbf5aUj5Niq_5-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;&lt;p data-pm-slice=&quot;1 1 [&amp;quot;table&amp;quot;,{},&amp;quot;table_row&amp;quot;,{},&amp;quot;table_cell&amp;quot;,{&amp;quot;colspan&amp;quot;:1,&amp;quot;rowspan&amp;quot;:1,&amp;quot;colwidth&amp;quot;:null}]&quot;&gt;약국명&lt;/p&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="60" width="120" x="360" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="XC87SI5Zbf5aUj5Niq_5-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;&lt;p data-pm-slice=&quot;1 1 [&amp;quot;table&amp;quot;,{},&amp;quot;table_row&amp;quot;,{},&amp;quot;table_cell&amp;quot;,{&amp;quot;colspan&amp;quot;:1,&amp;quot;rowspan&amp;quot;:1,&amp;quot;colwidth&amp;quot;:null}]&quot;&gt;약품명&lt;/p&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="60" width="120" x="360" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="XC87SI5Zbf5aUj5Niq_5-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;br&gt;&lt;p data-pm-slice=&quot;1 1 [&amp;quot;table&amp;quot;,{},&amp;quot;table_row&amp;quot;,{},&amp;quot;table_cell&amp;quot;,{&amp;quot;colspan&amp;quot;:1,&amp;quot;rowspan&amp;quot;:1,&amp;quot;colwidth&amp;quot;:null}]&quot;&gt; 의사면허번호(FK)&lt;/p&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="480" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="XC87SI5Zbf5aUj5Niq_5-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;table&amp;quot;,{},&amp;quot;table_row&amp;quot;,{},&amp;quot;table_cell&amp;quot;,{&amp;quot;colspan&amp;quot;:1,&amp;quot;rowspan&amp;quot;:1,&amp;quot;colwidth&amp;quot;:null}]&quot;&gt;&amp;nbsp;환자정보(FK)&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="360" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="XC87SI5Zbf5aUj5Niq_5-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;&lt;p data-pm-slice=&quot;1 1 [&amp;quot;table&amp;quot;,{},&amp;quot;table_row&amp;quot;,{},&amp;quot;table_cell&amp;quot;,{&amp;quot;colspan&amp;quot;:1,&amp;quot;rowspan&amp;quot;:1,&amp;quot;colwidth&amp;quot;:null}]&quot;&gt;위치&lt;/p&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="60" width="120" x="480" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="XC87SI5Zbf5aUj5Niq_5-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;&lt;p data-pm-slice=&quot;1 1 [&amp;quot;table&amp;quot;,{},&amp;quot;table_row&amp;quot;,{},&amp;quot;table_cell&amp;quot;,{&amp;quot;colspan&amp;quot;:1,&amp;quot;rowspan&amp;quot;:1,&amp;quot;colwidth&amp;quot;:null}]&quot;&gt;부서명&lt;/p&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="60" width="120" x="360" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="XC87SI5Zbf5aUj5Niq_5-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;br&gt;&lt;p data-pm-slice=&quot;1 1 [&amp;quot;table&amp;quot;,{},&amp;quot;table_row&amp;quot;,{},&amp;quot;table_cell&amp;quot;,{&amp;quot;colspan&amp;quot;:1,&amp;quot;rowspan&amp;quot;:1,&amp;quot;colwidth&amp;quot;:null}]&quot;&gt;처방전ID(PK,FK)&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="240" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="XC87SI5Zbf5aUj5Niq_5-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;br&gt;&lt;p data-pm-slice=&quot;1 1 [&amp;quot;table&amp;quot;,{},&amp;quot;table_row&amp;quot;,{},&amp;quot;table_cell&amp;quot;,{&amp;quot;colspan&amp;quot;:1,&amp;quot;rowspan&amp;quot;:1,&amp;quot;colwidth&amp;quot;:null}]&quot;&gt;약국ID(PK)&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="240" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="XC87SI5Zbf5aUj5Niq_5-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;&lt;p data-pm-slice=&quot;1 1 [&amp;quot;table&amp;quot;,{},&amp;quot;table_row&amp;quot;,{},&amp;quot;table_cell&amp;quot;,{&amp;quot;colspan&amp;quot;:1,&amp;quot;rowspan&amp;quot;:1,&amp;quot;colwidth&amp;quot;:null}]&quot;&gt;진단명&lt;/p&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="60" width="120" x="720" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="XC87SI5Zbf5aUj5Niq_5-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;&lt;p data-pm-slice=&quot;1 1 [&amp;quot;table&amp;quot;,{},&amp;quot;table_row&amp;quot;,{},&amp;quot;table_cell&amp;quot;,{&amp;quot;colspan&amp;quot;:1,&amp;quot;rowspan&amp;quot;:1,&amp;quot;colwidth&amp;quot;:null}]&quot;&gt;진료일시&lt;/p&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="60" width="120" x="600" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="XC87SI5Zbf5aUj5Niq_5-21" parent="1" style="rounded=0;redSpace=wrap;html=1;" value="정보(PK)" vertex="1">
+          <mxGeometry height="60" width="120" x="240" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XC87SI5Zbf5aUj5Niq_5-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;&lt;p data-pm-slice=&quot;1 1 [&amp;quot;table&amp;quot;,{},&amp;quot;table_row&amp;quot;,{},&amp;quot;table_cell&amp;quot;,{&amp;quot;colspan&amp;quot;:1,&amp;quot;rowspan&amp;quot;:1,&amp;quot;colwidth&amp;quot;:null}]&quot;&gt;단위가격&lt;/p&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="60" width="120" x="600" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="XC87SI5Zbf5aUj5Niq_5-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;&lt;p data-pm-slice=&quot;1 1 [&amp;quot;table&amp;quot;,{},&amp;quot;table_row&amp;quot;,{},&amp;quot;table_cell&amp;quot;,{&amp;quot;colspan&amp;quot;:1,&amp;quot;rowspan&amp;quot;:1,&amp;quot;colwidth&amp;quot;:null}]&quot;&gt;제조사&lt;/p&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="60" width="120" x="480" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="XC87SI5Zbf5aUj5Niq_5-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;&lt;p data-pm-slice=&quot;1 1 [&amp;quot;table&amp;quot;,{},&amp;quot;table_row&amp;quot;,{},&amp;quot;table_cell&amp;quot;,{&amp;quot;colspan&amp;quot;:1,&amp;quot;rowspan&amp;quot;:1,&amp;quot;colwidth&amp;quot;:null}]&quot;&gt; 연락처&lt;/p&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="60" width="120" x="600" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="XC87SI5Zbf5aUj5Niq_5-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;&lt;p data-pm-slice=&quot;1 1 [&amp;quot;table&amp;quot;,{},&amp;quot;table_row&amp;quot;,{},&amp;quot;table_cell&amp;quot;,{&amp;quot;colspan&amp;quot;:1,&amp;quot;rowspan&amp;quot;:1,&amp;quot;colwidth&amp;quot;:null}]&quot;&gt;주소&lt;/p&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="60" width="120" x="480" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="XC87SI5Zbf5aUj5Niq_5-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;br&gt;&lt;p data-pm-slice=&quot;1 1 [&amp;quot;table&amp;quot;,{},&amp;quot;table_row&amp;quot;,{},&amp;quot;table_cell&amp;quot;,{&amp;quot;colspan&amp;quot;:1,&amp;quot;rowspan&amp;quot;:1,&amp;quot;colwidth&amp;quot;:null}]&quot;&gt;약품코드&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(PK,FK)&lt;/span&gt;&lt;/p&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="360" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="XC87SI5Zbf5aUj5Niq_5-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;&lt;p data-pm-slice=&quot;1 1 [&amp;quot;table&amp;quot;,{},&amp;quot;table_row&amp;quot;,{},&amp;quot;table_cell&amp;quot;,{&amp;quot;colspan&amp;quot;:1,&amp;quot;rowspan&amp;quot;:1,&amp;quot;colwidth&amp;quot;:null}]&quot;&gt;이행상태&lt;/p&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="60" width="120" x="720" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="XC87SI5Zbf5aUj5Niq_5-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;&lt;p data-pm-slice=&quot;1 1 [&amp;quot;table&amp;quot;,{},&amp;quot;table_row&amp;quot;,{},&amp;quot;table_cell&amp;quot;,{&amp;quot;colspan&amp;quot;:1,&amp;quot;rowspan&amp;quot;:1,&amp;quot;colwidth&amp;quot;:null}]&quot;&gt;발행일&lt;/p&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="60" width="120" x="600" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="XC87SI5Zbf5aUj5Niq_5-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;br&gt;&lt;p data-pm-slice=&quot;1 1 [&amp;quot;table&amp;quot;,{},&amp;quot;table_row&amp;quot;,{},&amp;quot;table_cell&amp;quot;,{&amp;quot;colspan&amp;quot;:1,&amp;quot;rowspan&amp;quot;:1,&amp;quot;colwidth&amp;quot;:null}]&quot;&gt; 약국ID(FK)&lt;/p&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="480" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="XC87SI5Zbf5aUj5Niq_5-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;br&gt;&lt;p data-pm-slice=&quot;1 1 [&amp;quot;table&amp;quot;,{},&amp;quot;table_row&amp;quot;,{},&amp;quot;table_cell&amp;quot;,{&amp;quot;colspan&amp;quot;:1,&amp;quot;rowspan&amp;quot;:1,&amp;quot;colwidth&amp;quot;:null}]&quot;&gt;진료ID(FK)&lt;/p&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="360" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="XC87SI5Zbf5aUj5Niq_5-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;&lt;p data-pm-slice=&quot;1 1 [&amp;quot;table&amp;quot;,{},&amp;quot;table_row&amp;quot;,{},&amp;quot;table_cell&amp;quot;,{&amp;quot;colspan&amp;quot;:1,&amp;quot;rowspan&amp;quot;:1,&amp;quot;colwidth&amp;quot;:null}]&quot;&gt;조제수량&lt;/p&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="60" width="120" x="600" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="XC87SI5Zbf5aUj5Niq_5-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;&lt;p data-pm-slice=&quot;1 1 [&amp;quot;table&amp;quot;,{},&amp;quot;table_row&amp;quot;,{},&amp;quot;table_cell&amp;quot;,{&amp;quot;colspan&amp;quot;:1,&amp;quot;rowspan&amp;quot;:1,&amp;quot;colwidth&amp;quot;:null}]&quot;&gt;용량&lt;/p&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="60" width="120" x="480" y="490" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Ncjat_JNzAzawjuO8A8J" name="페이지-2">
+    <mxGraphModel dx="1665" dy="829" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="liTr4BV-C5cJNDFArCsp-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="48" y="23" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
